@@ -1,2 +1,13 @@
-# DB
-My journey in DataBase
+# Database Practice (SQL Server)
+
+A collection of SQL programs and exercises covering various database concepts.
+
+## 📂 Files & Topics
+
+- **Matrix Multiplication Table.sql** — SQL queries and table operations
+- **throw.sql** — Exception handling in SQL
+- **join types problems/** — Different types of SQL joins
+- **self reference/** — Self-referencing tables and queries
+
+## 🛠️ Language
+![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
