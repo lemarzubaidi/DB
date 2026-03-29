@@ -10,4 +10,4 @@ A collection of SQL programs and exercises covering various database concepts.
 - **self reference/** — Self-referencing tables and queries
 
 ## 🛠️ Language
-![Oracle SQL](https://img.shields.io/badge/Oracle%20SQL-F80000?style=flat&logo=oracle&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
